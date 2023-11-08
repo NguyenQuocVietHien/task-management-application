@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "task-management-application": "C:\Users\nhien\OneDrive\Desktop\Assignment\task-management-application\task-management-application"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "10"
+    }
+}
